@@ -38,7 +38,7 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://repository-images.githubusercontent.com/35726310/78196080-8aee-11ea-8736-5d358571e7db)
-  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  <picture> <img align="right" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" width = 250px></picture>
 <br>   
     
 - **Front-End Development**:
