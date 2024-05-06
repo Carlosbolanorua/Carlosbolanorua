@@ -71,7 +71,7 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 - **Extras**:
 
     ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)   
-    ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)   
+    ![Render](https://img.shields.io/badge/Render-5852F2.svg?style=for-the-badge&logo=render&logoColor=white)   
 
 
 </p>
