@@ -38,24 +38,16 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 
 - **Languages**:
 
-
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-124e73.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     
     
-    
 - **Front-End Development**:
 
      ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
@@ -69,7 +61,6 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 <br>
 
 - **Extras**:
-
 
     ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Render](https://img.shields.io/badge/Render-5852F2.svg?style=for-the-badge&logo=render&logoColor=white)
