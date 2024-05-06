@@ -11,17 +11,17 @@
 
 <br>
 
-Flutter Developer | Crafting Innovative Mobile Experiences
+**Flutter Developer | Crafting Innovative Mobile Experiences**
 
 Passionate Flutter developer dedicated to creating high-quality, high-performance mobile applications that exceed client expectations.
 
 **Key Competencies:**
 
-Flutter/Dart: Proficient in crafting top-notch Flutter applications, harnessing Dart language and Flutter development kit to deliver exceptional results.
-UI/UX Design: Skilled at translating design concepts into captivating user interfaces, ensuring seamless and engaging experiences.
-State Management: Experienced in implementing efficient state management solutions like Provider, Redux, or MobX for streamlined application development.
-API Integration: Expertise in seamlessly integrating third-party APIs to enrich applications with features such as authentication, push notifications, and real-time data access.
-Firebase: Proficient in integrating Firebase services like Firestore, Authentication, and Cloud Functions to empower backend functionalities.
+- Flutter/Dart: Proficient in crafting top-notch Flutter applications, harnessing Dart language and Flutter development kit to deliver exceptional results.
+- UI/UX Design: Skilled at translating design concepts into captivating user interfaces, ensuring seamless and engaging experiences.
+- State Management: Experienced in implementing efficient state management solutions like Provider, Redux, or MobX for streamlined application development.
+- API Integration: Expertise in seamlessly integrating third-party APIs to enrich applications with features such as authentication, push notifications, and real-time data access.
+- Firebase: Proficient in integrating Firebase services like Firestore, Authentication, and Cloud Functions to empower backend functionalities.
 
 <br><br>
 
