@@ -38,7 +38,7 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 
 - **Languages**:
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/226px-Dart_programming_language_logo.svg.png">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/206px-Dart_programming_language_logo.svg.png">
 
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
