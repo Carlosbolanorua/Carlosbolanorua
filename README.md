@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center"><b>Hi , I'm Carlos Bolaño </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
@@ -14,11 +11,17 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+Flutter Developer | Crafting Innovative Mobile Experiences
+
+Passionate Flutter developer dedicated to creating high-quality, high-performance mobile applications that exceed client expectations.
+
+**Key Competencies:**
+
+Flutter/Dart: Proficient in crafting top-notch Flutter applications, harnessing Dart language and Flutter development kit to deliver exceptional results.
+UI/UX Design: Skilled at translating design concepts into captivating user interfaces, ensuring seamless and engaging experiences.
+State Management: Experienced in implementing efficient state management solutions like Provider, Redux, or MobX for streamlined application development.
+API Integration: Expertise in seamlessly integrating third-party APIs to enrich applications with features such as authentication, push notifications, and real-time data access.
+Firebase: Proficient in integrating Firebase services like Firestore, Authentication, and Cloud Functions to empower backend functionalities.
 
 <br><br>
 
