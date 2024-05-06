@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhand-pointing-point-direction-emphasis-look-here-gif-2697380729353381675&psig=AOvVaw1vspjuBCsqy-wy770Gpe1N&ust=1715097293108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCJjeyLux-YUDFQAAAAAdAAAAABAi" width = 250px></picture>
 
 <br>
 
