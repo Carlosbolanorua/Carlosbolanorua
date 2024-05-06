@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fmeroware-wave-hand-merohand-0IxONYHUw0vikYuAoL&psig=AOvVaw0RkotvawTFPqBzEqgVqWE0&ust=1715097477938000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCKC315Ky-YUDFQAAAAAdAAAAABAE" width = 250px></picture>
+<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN5MG55Mm9hbWFuZXdveXB1b2VybzR3b2diMDl4eW1hMjBqcXd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0IxONYHUw0vikYuAoL/giphy.gif" width = 250px></picture>
 
 <br>
 
