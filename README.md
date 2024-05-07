@@ -29,8 +29,8 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 - Firebase: Proficient in integrating Firebase services like Firestore, Authentication, and Cloud Functions to empower backend functionalities.
 
 <br><br>
-## **My project's**
-
+## **My projects**
+[![image](https://img.shields.io/badge/ValleRuta-9ACD32?style=for-the-badge&logo=bus&logoColor=white)](https://www.instagram.com/carlos_bolanor/)
 
 <br>
 
