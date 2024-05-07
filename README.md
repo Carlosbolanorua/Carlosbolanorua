@@ -31,19 +31,24 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 <br><br>
 ## **My projects**
 
-<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/ValleRuta/blob/main/assets/assets/img/iconn.jpeg"  width = 50px> 
+<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/ValleRuta/blob/main/assets/assets/img/iconn.jpeg"  width=50px> 
 </picture>
 <picture> <a href="https://valle-ruta.vercel.app/">
 <img align="center" src= "https://img.shields.io/badge/ValleRuta-9ACD32?style=for-the-badge&logo=bus&logoColor=white">
 </a></picture>
 
-<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/StoreAppWeb/blob/main/assets/assets/img/iconn.png"  width = 50px> 
+<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/StoreAppWeb/blob/main/assets/assets/img/iconn.png" width=50px> 
 </picture>
-<picture> <a href="[https://valle-ruta.vercel.app/](https://store-app-web.vercel.app/)">
+<picture> <a href="https://store-app-web.vercel.app/">
 <img align="center" src= "https://img.shields.io/badge/Inventary_App-38BDF2?style=for-the-badge&logo=store&logoColor=white">
 </a></picture>
 
-[![image](https://img.shields.io/badge/Io_Reflectify-16b6ab?style=for-the-badge&logo=store&logoColor=white)](https://web-mirror.vercel.app/) 
+<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/mirrorwifi/blob/main/assets/icon/iconnew.png" width=50px> 
+</picture>
+<picture> <a href="https://web-mirror.vercel.app/">
+<img align="center" src= "https://img.shields.io/badge/Io_Reflectify-16b6ab?style=for-the-badge&logo=store&logoColor=white">
+</a></picture>
+
 <br>
 
 
