@@ -29,7 +29,7 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 - Firebase: Proficient in integrating Firebase services like Firestore, Authentication, and Cloud Functions to empower backend functionalities.
 
 <br><br>
-##<h1 align="right"><b>My prvject's </b></h1>
+##My project's
 
 
 <br>
