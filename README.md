@@ -43,8 +43,9 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 <img align="center" src= "https://img.shields.io/badge/Inventary_App-38BDF2?style=for-the-badge&logo=store&logoColor=white">
 </a></picture>
 
-<picture> <img  align="center" src= "https://github.com/Carlosbolanorua/mirrorwifi/blob/main/assets/icon/iconnew.png" width=50px style="border-radius: 50%;"> 
-</picture>
+<picture> <div style="border-radius: 50%; overflow: hidden;">
+<img  align="center" src= "https://github.com/Carlosbolanorua/mirrorwifi/blob/main/assets/icon/iconnew.png" width=50px> 
+</div></picture>
 <picture> <a href="https://web-mirror.vercel.app/">
 <img align="center" src= "https://img.shields.io/badge/Io_Reflectify-16b6ab?style=for-the-badge&logo=store&logoColor=white">
 </a></picture>
