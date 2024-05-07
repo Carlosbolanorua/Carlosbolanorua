@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Carlos Bolaño </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h1 align="center">
-  <img src="https://github.com/Carlosbolanorua/Carlosbolanorua/blob/main/imagen_2024-05-06_134409876.png" 
-    alt="Code" width="800"/>
+  <picture><img src="https://github.com/Carlosbolanorua/Carlosbolanorua/blob/main/imagen_2024-05-06_134409876.png" 
+    alt="Code" width="800"/></picture>
 </h1>
 <br>
 
