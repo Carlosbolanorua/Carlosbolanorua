@@ -31,8 +31,8 @@ Passionate Flutter developer dedicated to creating high-quality, high-performanc
 <br><br>
 ## **My projects**
 
-<img align="left" src= "https://img.shields.io/badge/ValleRuta-9ACD32?style=for-the-badge&logo=bus&logoColor=white">
-
+<h1><img align="left" src= "https://img.shields.io/badge/ValleRuta-9ACD32?style=for-the-badge&logo=bus&logoColor=white">
+</h1>
 [![image](https://img.shields.io/badge/Inventary_App-38BDF2?style=for-the-badge&logo=store&logoColor=white)](https://store-app-web.vercel.app/) 
 
 [![image](https://img.shields.io/badge/Io_Reflectify-16b6ab?style=for-the-badge&logo=store&logoColor=white)](https://web-mirror.vercel.app/) 
